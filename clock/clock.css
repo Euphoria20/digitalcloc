@@ -1,0 +1,19 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	background-image: url(001.jpg.png);
+	background-size: cover;
+
+}
+.container{
+	font-family: orbitron;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 100px;
+
+
+}
